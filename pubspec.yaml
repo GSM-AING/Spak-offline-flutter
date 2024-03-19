@@ -64,6 +64,17 @@ flutter:
   assets:
     - assets/images/
 
+  fonts:
+    - family: PretendardBlack
+      fonts:
+        - asset: assets/fonts/Pretendard-Black.otf
+    - family: PretendardBold
+      fonts:
+        - asset: assets/fonts/Pretendard-Bold.otf
+    - family: PretendardExtraBold
+      fonts:
+        - asset: assets/fonts/Pretendard-ExtraBold.otf
+
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
