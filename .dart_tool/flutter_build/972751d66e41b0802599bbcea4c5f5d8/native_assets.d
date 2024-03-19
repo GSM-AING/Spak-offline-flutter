@@ -1,1 +1,0 @@
- C:\\Users\\master\\workspace\\Spak-offline-flutter\\.dart_tool\\flutter_build\\972751d66e41b0802599bbcea4c5f5d8\\native_assets.yaml: 

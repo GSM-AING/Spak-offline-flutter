@@ -1,4 +1,0 @@
-#Tue Mar 19 17:55:59 KST 2024
-base.0=C\:\\Users\\master\\workspace\\Spak-offline-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
